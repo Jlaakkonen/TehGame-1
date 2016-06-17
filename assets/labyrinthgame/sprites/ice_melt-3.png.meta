@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: ed49938900e7e427191fdbf870d5cc8a
+timeCreated: 1464000948
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ice_melt-3_0
+    21300002: ice_melt-3_1
+    21300004: ice_melt-3_2
+    21300006: ice_melt-3_3
+    21300008: ice_melt-3_4
+    21300010: ice_melt-3_5
+    21300012: ice_melt-3_6
+    21300014: ice_melt-3_7
+    21300016: ice_melt-3_8
+    21300018: ice_melt-3_9
+    21300020: ice_melt-3_10
+    21300022: ice_melt-3_11
+    21300024: ice_melt-3_12
+    21300026: ice_melt-3_13
+    21300028: ice_melt-3_14
+    21300030: ice_melt-3_15
+    21300032: ice_melt-3_16
+    21300034: ice_melt-3_17
+    21300036: ice_melt-3_18
+    21300038: ice_melt-3_19
+    21300040: ice_melt-3_20
+    21300042: ice_melt-3_21
+    21300044: ice_melt-3_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ice_melt-3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 42.5}
+        - {x: -43, y: 38.5}
+        - {x: -43, y: -40.5}
+        - {x: -40, y: -42.5}
+        - {x: 43, y: -42.5}
+        - {x: 43, y: 42.5}
+    - name: ice_melt-3_1
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 0
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.83, y: 42.5}
+        - {x: -42.83, y: -42.5}
+        - {x: 43.17, y: -42.5}
+        - {x: 43.17, y: 41.5}
+        - {x: 41.17, y: 42.5}
+    - name: ice_melt-3_2
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 0
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.660004, y: 42.5}
+        - {x: -42.660004, y: -42.5}
+        - {x: 43.339996, y: -42.5}
+        - {x: 43.339996, y: 42.5}
+    - name: ice_melt-3_3
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 0
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.48999, y: 42.5}
+        - {x: -42.48999, y: -39.5}
+        - {x: -41.48999, y: -42.5}
+        - {x: 42.51001, y: -42.5}
+        - {x: 43.51001, y: -41.5}
+        - {x: 43.51001, y: 42.5}
+    - name: ice_melt-3_4
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 0
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.320007, y: 42.5}
+        - {x: -42.320007, y: -40.5}
+        - {x: -41.320007, y: -42.5}
+        - {x: 43.679993, y: -42.5}
+        - {x: 43.679993, y: 42.5}
+    - name: ice_melt-3_5
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 0
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.649994, y: 42.5}
+        - {x: -42.649994, y: 37.5}
+        - {x: -42.649994, y: -39.5}
+        - {x: -38.649994, y: -42.5}
+        - {x: 39.350006, y: -42.5}
+        - {x: 44.350006, y: -37.5}
+        - {x: 44.350006, y: 38.5}
+        - {x: 41.350006, y: 42.5}
+    - name: ice_melt-3_6
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 0
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.97998, y: 42.5}
+        - {x: -42.97998, y: 41.5}
+        - {x: -42.97998, y: -42.5}
+        - {x: 43.02002, y: -42.5}
+        - {x: 43.02002, y: 42.5}
+    - name: ice_melt-3_7
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 0
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.809998, y: 42.5}
+        - {x: -42.809998, y: 40.5}
+        - {x: -42.809998, y: -42.5}
+        - {x: 42.190002, y: -42.5}
+        - {x: 43.190002, y: -41.5}
+        - {x: 43.190002, y: 42.5}
+    - name: ice_melt-3_8
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 0
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.640015, y: 42.5}
+        - {x: -42.640015, y: -42.5}
+        - {x: 43.359985, y: -42.5}
+        - {x: 43.359985, y: 42.5}
+    - name: ice_melt-3_9
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 0
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.46997, y: 42.5}
+        - {x: -42.46997, y: -38.5}
+        - {x: -38.46997, y: -42.5}
+        - {x: 39.53003, y: -42.5}
+        - {x: 43.53003, y: -38.5}
+        - {x: 43.53003, y: 40.5}
+        - {x: 42.53003, y: 42.5}
+    - name: ice_melt-3_10
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 0
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.299988, y: 42.5}
+        - {x: -42.299988, y: 41.5}
+        - {x: -42.299988, y: -42.5}
+        - {x: 43.700012, y: -42.5}
+        - {x: 43.700012, y: 42.5}
+    - name: ice_melt-3_11
+      rect:
+        serializedVersion: 2
+        x: 5511
+        y: 0
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.630005, y: 41.5}
+        - {x: -42.630005, y: -41.5}
+        - {x: 41.369995, y: -41.5}
+        - {x: 44.369995, y: -40.5}
+        - {x: 44.369995, y: 36.5}
+        - {x: 40.369995, y: 41.5}
+    - name: ice_melt-3_12
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 0
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.95996, y: 40.5}
+        - {x: -41.95996, y: 34.5}
+        - {x: -41.95996, y: -39.5}
+        - {x: -34.95996, y: -40.5}
+        - {x: 42.04004, y: -40.5}
+        - {x: 43.04004, y: -39.5}
+        - {x: 43.04004, y: 33.5}
+        - {x: 33.04004, y: 40.5}
+    - name: ice_melt-3_13
+      rect:
+        serializedVersion: 2
+        x: 6513
+        y: 0
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.79004, y: 40.5}
+        - {x: -40.79004, y: 34.5}
+        - {x: -40.79004, y: -40.5}
+        - {x: 43.20996, y: -40.5}
+        - {x: 43.20996, y: 40.5}
+    - name: ice_melt-3_14
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 0
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.619995, y: 37.5}
+        - {x: -38.619995, y: 31.5}
+        - {x: -38.619995, y: -37.5}
+        - {x: 42.380005, y: -37.5}
+        - {x: 43.380005, y: -31.5}
+        - {x: 43.380005, y: 34.5}
+        - {x: 38.380005, y: 37.5}
+    - name: ice_melt-3_15
+      rect:
+        serializedVersion: 2
+        x: 7515
+        y: 0
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.44995, y: 35.5}
+        - {x: -36.44995, y: 28.5}
+        - {x: -36.44995, y: 11.5}
+        - {x: -32.44995, y: 9.5}
+        - {x: -28.449951, y: 9.5}
+        - {x: -31.449951, y: 9.5}
+        - {x: -36.44995, y: 3.5}
+        - {x: -36.44995, y: -0.5}
+        - {x: -35.44995, y: -24.5}
+        - {x: -28.449951, y: -36.5}
+        - {x: 42.55005, y: -36.5}
+        - {x: 42.55005, y: 28.5}
+        - {x: 34.55005, y: 35.5}
+    - name: ice_melt-3_16
+      rect:
+        serializedVersion: 2
+        x: 8016
+        y: 0
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.2800293, y: 33.5}
+        - {x: -35.28003, y: 16.5}
+        - {x: -35.28003, y: -25.5}
+        - {x: -32.28003, y: -34.5}
+        - {x: 42.71997, y: -34.5}
+        - {x: 42.71997, y: 30.5}
+        - {x: 39.71997, y: 33.5}
+      - - {x: -36.28003, y: 14.5}
+        - {x: -33.28003, y: 11.5}
+        - {x: -24.28003, y: 11.5}
+        - {x: -9.280029, y: 23.5}
+        - {x: -9.280029, y: 32.5}
+        - {x: -10.280029, y: 33.5}
+        - {x: -32.28003, y: 33.5}
+        - {x: -36.28003, y: 17.5}
+      - - {x: 27.71997, y: 32.5}
+        - {x: 28.71997, y: 29.5}
+        - {x: 31.71997, y: 29.5}
+        - {x: 33.71997, y: 31.5}
+        - {x: 32.71997, y: 34.5}
+        - {x: 29.71997, y: 34.5}
+    - name: ice_melt-3_17
+      rect:
+        serializedVersion: 2
+        x: 8517
+        y: 0
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.390015, y: 32.5}
+        - {x: 2.3900146, y: 32.5}
+        - {x: -17.609985, y: 15.5}
+        - {x: -13.609985, y: 6.5}
+        - {x: -23.609985, y: 3.5}
+        - {x: -33.609985, y: -4.5}
+        - {x: -33.609985, y: -17.5}
+        - {x: -22.609985, y: -32.5}
+        - {x: 28.390015, y: -32.5}
+        - {x: 38.390015, y: -25.5}
+        - {x: 38.390015, y: 19.5}
+        - {x: 26.390015, y: 31.5}
+      - - {x: -25.609985, y: 31.5}
+        - {x: -33.609985, y: 29.5}
+        - {x: -33.609985, y: 20.5}
+        - {x: -32.609985, y: 19.5}
+        - {x: -23.609985, y: 19.5}
+        - {x: -17.609985, y: 23.5}
+        - {x: -17.609985, y: 28.5}
+        - {x: -18.609985, y: 31.5}
+    - name: ice_melt-3_18
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 0
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.939941, y: 31.5}
+        - {x: -32.93994, y: -2.5}
+        - {x: -32.93994, y: -21.5}
+        - {x: -26.939941, y: -30.5}
+        - {x: -4.9399414, y: -30.5}
+        - {x: 1.0600586, y: -31.5}
+        - {x: 27.060059, y: -31.5}
+        - {x: 35.06006, y: -25.5}
+        - {x: 35.06006, y: 28.5}
+        - {x: 21.060059, y: 31.5}
+      - - {x: -7.9399414, y: 12.5}
+        - {x: -5.9399414, y: 10.5}
+        - {x: -2.9399414, y: 11.5}
+        - {x: -2.9399414, y: 14.5}
+        - {x: -4.9399414, y: 16.5}
+        - {x: -7.9399414, y: 15.5}
+    - name: ice_melt-3_19
+      rect:
+        serializedVersion: 2
+        x: 9519
+        y: 0
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.22998, y: -6.5}
+        - {x: 12.22998, y: -11.5}
+        - {x: 9.22998, y: -14.5}
+        - {x: 9.22998, y: -15.5}
+        - {x: 9.22998, y: -9.5}
+        - {x: 4.2299805, y: -4.5}
+        - {x: -5.7700195, y: -3.5}
+        - {x: -18.77002, y: -3.5}
+        - {x: -25.77002, y: -10.5}
+        - {x: -25.77002, y: -21.5}
+        - {x: -23.77002, y: -28.5}
+        - {x: 30.22998, y: -28.5}
+        - {x: 33.22998, y: -21.5}
+        - {x: 33.22998, y: -9.5}
+        - {x: 30.22998, y: -8.5}
+      - - {x: 2.2299805, y: 28.5}
+        - {x: 2.2299805, y: 7.5}
+        - {x: 10.22998, y: -2.5}
+        - {x: 13.22998, y: -3.5}
+        - {x: 29.22998, y: -3.5}
+        - {x: 32.22998, y: 0.5}
+        - {x: 32.22998, y: 22.5}
+        - {x: 25.22998, y: 28.5}
+    - name: ice_melt-3_20
+      rect:
+        serializedVersion: 2
+        x: 10020
+        y: 0
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.400024, y: -9.5}
+        - {x: 19.400024, y: -9.5}
+        - {x: 15.400024, y: -12.5}
+        - {x: 14.400024, y: -15.5}
+        - {x: 14.400024, y: -19.5}
+        - {x: 19.400024, y: -23.5}
+        - {x: 26.400024, y: -23.5}
+        - {x: 29.400024, y: -21.5}
+        - {x: 30.400024, y: -18.5}
+        - {x: 30.400024, y: -15.5}
+      - - {x: -12.599976, y: -6.5}
+        - {x: -18.599976, y: -7.5}
+        - {x: -24.599976, y: -15.5}
+        - {x: -24.599976, y: -22.5}
+        - {x: 0.4000244, y: -22.5}
+        - {x: 3.4000244, y: -21.5}
+        - {x: 3.4000244, y: -12.5}
+        - {x: 0.4000244, y: -6.5}
+      - - {x: 20.400024, y: 23.5}
+        - {x: 11.400024, y: 23.5}
+        - {x: 8.400024, y: 22.5}
+        - {x: 5.4000244, y: 19.5}
+        - {x: 4.4000244, y: 17.5}
+        - {x: 4.4000244, y: 5.5}
+        - {x: 17.400024, y: -3.5}
+        - {x: 27.400024, y: -3.5}
+        - {x: 29.400024, y: -0.5}
+        - {x: 29.400024, y: 18.5}
+    - name: ice_melt-3_21
+      rect:
+        serializedVersion: 2
+        x: 10521
+        y: 0
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.429932, y: -8.5}
+        - {x: -19.429932, y: -12.5}
+        - {x: -19.429932, y: -17.5}
+        - {x: -14.429932, y: -20.5}
+        - {x: -5.4299316, y: -20.5}
+        - {x: -1.4299316, y: -18.5}
+        - {x: -1.4299316, y: -13.5}
+        - {x: -3.4299316, y: -8.5}
+      - - {x: 5.5700684, y: 7.5}
+        - {x: 13.570068, y: 0.5}
+        - {x: 20.570068, y: 0.5}
+        - {x: 24.570068, y: 2.5}
+        - {x: 24.570068, y: 13.5}
+        - {x: 20.570068, y: 20.5}
+        - {x: 8.570068, y: 20.5}
+        - {x: 5.5700684, y: 19.5}
+    - name: ice_melt-3_22
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 0
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.26001, y: -15.5}
+        - {x: -11.26001, y: -15.5}
+        - {x: -4.26001, y: -13.5}
+        - {x: -4.26001, y: -6.5}
+        - {x: -10.26001, y: -6.5}
+        - {x: -18.26001, y: -8.5}
+      - - {x: 9.73999, y: 9.5}
+        - {x: 11.73999, y: 6.5}
+        - {x: 20.73999, y: 6.5}
+        - {x: 23.73999, y: 7.5}
+        - {x: 23.73999, y: 15.5}
+        - {x: 22.73999, y: 18.5}
+        - {x: 11.73999, y: 18.5}
+        - {x: 9.73999, y: 13.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

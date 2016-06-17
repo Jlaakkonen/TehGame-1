@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: be8df308935334b40aff7a3224ef12ca
+timeCreated: 1464336953
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: coin_spin_0
+    21300002: coin_spin_1
+    21300004: coin_spin_2
+    21300006: coin_spin_3
+    21300008: coin_spin_4
+    21300010: coin_spin_5
+    21300012: coin_spin_6
+    21300014: coin_spin_7
+    21300016: coin_spin_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 490
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: coin_spin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 297.55554
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 105.5}
+        - {x: -16, y: 105.5}
+        - {x: -17, y: 103.5}
+        - {x: -17, y: -114.5}
+        - {x: 16, y: -114.5}
+        - {x: 17, y: -110.5}
+        - {x: 17, y: 60.5}
+        - {x: 15, y: 104.5}
+    - name: coin_spin_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 297.55554
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.709991, y: 106.5}
+        - {x: -32.29001, y: 106.5}
+        - {x: -47.29001, y: 88.5}
+        - {x: -47.29001, y: -114.5}
+        - {x: 45.70999, y: -114.5}
+        - {x: 55.70999, y: -93.5}
+        - {x: 55.70999, y: 89.5}
+        - {x: 46.70999, y: 99.5}
+    - name: coin_spin_2
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 0
+        width: 297.55554
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.41998, y: 67.5}
+        - {x: 39.419983, y: 106.5}
+        - {x: -31.580017, y: 106.5}
+        - {x: -56.580017, y: 85.5}
+        - {x: -77.58002, y: 52.5}
+        - {x: -77.58002, y: -54.5}
+        - {x: -73.58002, y: -85.5}
+        - {x: -42.580017, y: -114.5}
+        - {x: 36.419983, y: -114.5}
+        - {x: 56.419983, y: -112.5}
+        - {x: 83.41998, y: -62.5}
+        - {x: 85.41998, y: -34.5}
+        - {x: 85.41998, y: 40.5}
+    - name: coin_spin_3
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 0
+        width: 297.55554
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81.130005, y: 78.5}
+        - {x: 58.130005, y: 101.5}
+        - {x: 25.130005, y: 107.5}
+        - {x: -35.869995, y: 107.5}
+        - {x: -61.869995, y: 90.5}
+        - {x: -85.869995, y: 66.5}
+        - {x: -98.869995, y: 23.5}
+        - {x: -98.869995, y: -32.5}
+        - {x: -76.869995, y: -84.5}
+        - {x: -38.869995, y: -113.5}
+        - {x: 27.130005, y: -113.5}
+        - {x: 53.130005, y: -110.5}
+        - {x: 94.130005, y: -69.5}
+        - {x: 105.130005, y: -20.5}
+        - {x: 105.130005, y: 28.5}
+    - name: coin_spin_4
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 0
+        width: 297.55554
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 114.839966, y: 28.5}
+        - {x: 109.839966, y: 38.5}
+        - {x: 88.839966, y: 77.5}
+        - {x: 38.839966, y: 108.5}
+        - {x: -17.160034, y: 108.5}
+        - {x: -61.160034, y: 94.5}
+        - {x: -90.160034, y: 59.5}
+        - {x: -105.160034, y: 28.5}
+        - {x: -105.160034, y: -30.5}
+        - {x: -103.160034, y: -46.5}
+        - {x: -63.160034, y: -97.5}
+        - {x: -24.160034, y: -114.5}
+        - {x: 39.839966, y: -114.5}
+        - {x: 96.839966, y: -84.5}
+        - {x: 113.839966, y: -46.5}
+        - {x: 114.839966, y: -32.5}
+    - name: coin_spin_5
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 0
+        width: 297.55554
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.54993, y: 92.5}
+        - {x: 34.549927, y: 107.5}
+        - {x: -20.450073, y: 107.5}
+        - {x: -35.450073, y: 102.5}
+        - {x: -55.450073, y: 91.5}
+        - {x: -79.45007, y: 70.5}
+        - {x: -105.45007, y: 27.5}
+        - {x: -105.45007, y: -50.5}
+        - {x: -56.450073, y: -101.5}
+        - {x: -47.450073, y: -106.5}
+        - {x: -25.450073, y: -114.5}
+        - {x: 35.549927, y: -114.5}
+        - {x: 87.54993, y: -95.5}
+        - {x: 114.54993, y: -40.5}
+        - {x: 114.54993, y: 29.5}
+        - {x: 91.54993, y: 71.5}
+    - name: coin_spin_6
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 0
+        width: 297.55554
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112.26001, y: 41.5}
+        - {x: 87.26001, y: 86.5}
+        - {x: 45.26001, y: 106.5}
+        - {x: -18.73999, y: 106.5}
+        - {x: -56.73999, y: 99.5}
+        - {x: -82.73999, y: 62.5}
+        - {x: -97.73999, y: 21.5}
+        - {x: -97.73999, y: -26.5}
+        - {x: -83.73999, y: -67.5}
+        - {x: -53.73999, y: -101.5}
+        - {x: -22.73999, y: -114.5}
+        - {x: 35.26001, y: -114.5}
+        - {x: 57.26001, y: -109.5}
+        - {x: 85.26001, y: -81.5}
+        - {x: 109.26001, y: -27.5}
+        - {x: 112.26001, y: -11.5}
+    - name: coin_spin_7
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 0
+        width: 297.55554
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.46997, y: 106.5}
+        - {x: -37.53003, y: 106.5}
+        - {x: -75.53003, y: 51.5}
+        - {x: -75.53003, y: -54.5}
+        - {x: -40.53003, y: -102.5}
+        - {x: -26.53003, y: -112.5}
+        - {x: -19.53003, y: -114.5}
+        - {x: 49.46997, y: -114.5}
+        - {x: 87.46997, y: -64.5}
+        - {x: 87.46997, y: 33.5}
+        - {x: 67.46997, y: 85.5}
+    - name: coin_spin_8
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 0
+        width: 297.55554
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.3200684, y: 106.5}
+        - {x: -32.32007, y: 98.5}
+        - {x: -39.32007, y: 86.5}
+        - {x: -39.32007, y: -81.5}
+        - {x: -32.32007, y: -114.5}
+        - {x: 45.67993, y: -114.5}
+        - {x: 63.67993, y: -107.5}
+        - {x: 63.67993, y: 105.5}
+        - {x: 61.67993, y: 106.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

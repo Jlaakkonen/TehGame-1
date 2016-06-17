@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: 4221b810cd3b8465cbc89b83ab2d66c7
+timeCreated: 1464351491
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: poof_0
+    21300002: poof_1
+    21300004: poof_2
+    21300006: poof_3
+    21300008: poof_4
+    21300010: poof_5
+    21300012: poof_6
+    21300014: poof_7
+    21300016: poof_8
+    21300018: poof_9
+    21300020: poof_10
+    21300022: poof_11
+    21300024: poof_12
+    21300026: poof_13
+    21300028: poof_14
+    21300030: poof_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: poof_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500.625
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 4}
+        - {x: -5, y: 2}
+        - {x: -5, y: -4}
+        - {x: 0, y: -4}
+        - {x: 3, y: -3}
+        - {x: 3, y: 1}
+        - {x: 0, y: 4}
+    - name: poof_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500.625
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.34020233, y: -10}
+        - {x: 8.340202, y: -10}
+        - {x: 15.340202, y: 0}
+        - {x: 15.340202, y: 9}
+        - {x: 13.340202, y: 10}
+        - {x: 8.340202, y: 10}
+        - {x: -6.6597977, y: 4}
+        - {x: -6.6597977, y: -1}
+    - name: poof_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500.625
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.1804047, y: 13}
+        - {x: -12.819595, y: 6}
+        - {x: -12.819595, y: 0}
+        - {x: -2.8195953, y: -12}
+        - {x: 4.1804047, y: -12}
+        - {x: 5.1804047, y: -11}
+        - {x: 14.180405, y: 9}
+        - {x: 14.180405, y: 13}
+    - name: poof_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500.625
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.02063, y: 14}
+        - {x: -6.97937, y: 14}
+        - {x: -18.97937, y: 7}
+        - {x: -18.97937, y: 2}
+        - {x: 2.02063, y: -21}
+        - {x: 8.02063, y: -21}
+        - {x: 18.02063, y: -5}
+        - {x: 18.02063, y: 12}
+      - - {x: 18.02063, y: 21}
+        - {x: 15.02063, y: 15}
+        - {x: 15.02063, y: 12}
+        - {x: 16.02063, y: 11}
+        - {x: 19.02063, y: 11}
+        - {x: 25.02063, y: 14}
+        - {x: 25.02063, y: 19}
+        - {x: 23.02063, y: 21}
+    - name: poof_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 500.625
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.13919, y: 21}
+        - {x: -25.13919, y: -8}
+        - {x: -1.1391907, y: -28}
+        - {x: 22.86081, y: -28}
+        - {x: 24.86081, y: -27}
+        - {x: 24.86081, y: 21}
+    - name: poof_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 0
+        width: 500.625
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.70105, y: -22}
+        - {x: 3.7010498, y: -25}
+        - {x: 3.7010498, y: -30}
+        - {x: 10.70105, y: -30}
+        - {x: 13.70105, y: -28}
+        - {x: 13.70105, y: -24}
+        - {x: 11.70105, y: -22}
+      - - {x: 17.70105, y: 16}
+        - {x: 21.70105, y: 13}
+        - {x: 22.70105, y: 5}
+        - {x: 24.70105, y: 3}
+        - {x: 25.70105, y: 3}
+        - {x: 29.70105, y: 7}
+        - {x: 29.70105, y: 19}
+        - {x: 28.70105, y: 26}
+        - {x: 22.70105, y: 30}
+        - {x: 19.70105, y: 30}
+        - {x: -6.29895, y: 28}
+        - {x: -8.29895, y: 26}
+        - {x: -7.29895, y: 23}
+        - {x: -28.29895, y: 13}
+        - {x: -28.29895, y: 0}
+        - {x: -24.29895, y: -17}
+        - {x: -19.29895, y: -28}
+        - {x: 11.70105, y: -28}
+        - {x: 29.70105, y: -22}
+        - {x: 29.70105, y: -13}
+        - {x: 27.70105, y: -3}
+        - {x: 20.70105, y: 7}
+        - {x: 19.70105, y: 13}
+    - name: poof_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 500.625
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.54125977, y: 39}
+        - {x: -38.45874, y: 32}
+        - {x: -38.45874, y: -16}
+        - {x: -33.45874, y: -36}
+        - {x: -17.45874, y: -39}
+        - {x: 31.54126, y: -39}
+        - {x: 41.54126, y: -14}
+        - {x: 41.54126, y: 37}
+        - {x: 38.54126, y: 39}
+    - name: poof_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 500.625
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.61853, y: 40}
+        - {x: -44.61853, y: 35}
+        - {x: -44.61853, y: -31}
+        - {x: -38.61853, y: -40}
+        - {x: 8.38147, y: -40}
+        - {x: 36.38147, y: -28}
+        - {x: 49.38147, y: -12}
+        - {x: 49.38147, y: 24}
+        - {x: 41.38147, y: 40}
+    - name: poof_8
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 500.625
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.22162, y: 46}
+        - {x: -38.77838, y: 46}
+        - {x: -49.77838, y: 41}
+        - {x: -49.77838, y: -41}
+        - {x: -44.77838, y: -46}
+        - {x: 17.221619, y: -46}
+        - {x: 36.22162, y: -42}
+        - {x: 53.22162, y: -25}
+        - {x: 53.22162, y: 7}
+        - {x: 44.22162, y: 35}
+    - name: poof_9
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 0
+        width: 500.625
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.0618896, y: 52}
+        - {x: -39.93811, y: 52}
+        - {x: -55.93811, y: 40}
+        - {x: -55.93811, y: -48}
+        - {x: -39.93811, y: -52}
+        - {x: 59.06189, y: -52}
+        - {x: 59.06189, y: 31}
+        - {x: 58.06189, y: 41}
+      - - {x: -40.93811, y: -39}
+        - {x: -47.93811, y: -39}
+        - {x: -47.93811, y: -44}
+        - {x: -45.93811, y: -50}
+        - {x: -37.93811, y: -50}
+        - {x: -35.93811, y: -48}
+        - {x: -35.93811, y: -41}
+    - name: poof_10
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 0
+        width: 500.625
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.9021, y: 56}
+        - {x: -49.0979, y: 56}
+        - {x: -62.0979, y: 46}
+        - {x: -62.0979, y: -21}
+        - {x: -58.0979, y: -51}
+        - {x: -31.0979, y: -56}
+        - {x: 54.9021, y: -56}
+        - {x: 61.9021, y: -40}
+        - {x: 61.9021, y: 25}
+        - {x: 51.9021, y: 49}
+      - - {x: -45.0979, y: -44}
+        - {x: -48.0979, y: -46}
+        - {x: -48.0979, y: -50}
+        - {x: -45.0979, y: -55}
+        - {x: -42.0979, y: -55}
+        - {x: -39.0979, y: -52}
+        - {x: -39.0979, y: -48}
+        - {x: -41.0979, y: -44}
+    - name: poof_11
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 0
+        width: 500.625
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.25769, y: 61}
+        - {x: -64.25769, y: 41}
+        - {x: -64.25769, y: -25}
+        - {x: -58.25769, y: -57}
+        - {x: -38.25769, y: -61}
+        - {x: 55.74231, y: -61}
+        - {x: 64.74231, y: -48}
+        - {x: 64.74231, y: 43}
+        - {x: 59.74231, y: 61}
+    - name: poof_12
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 500.625
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.41748, y: 63}
+        - {x: -64.41748, y: 50}
+        - {x: -64.41748, y: -47}
+        - {x: -17.41748, y: -63}
+        - {x: 57.58252, y: -63}
+        - {x: 64.58252, y: -60}
+        - {x: 64.58252, y: 60}
+        - {x: 48.58252, y: 63}
+      - - {x: 6.5825195, y: -16}
+        - {x: -28.41748, y: 26}
+        - {x: 14.58252, y: -14}
+        - {x: 24.58252, y: -18}
+    - name: poof_13
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 0
+        width: 500.625
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.57727, y: 64}
+        - {x: -63.57727, y: -64}
+        - {x: 59.42273, y: -64}
+        - {x: 65.42273, y: -61}
+        - {x: 65.42273, y: 49}
+        - {x: 54.42273, y: 64}
+      - - {x: -21.57727, y: 24}
+        - {x: 1.4227295, y: 38}
+        - {x: 29.42273, y: 1}
+        - {x: 28.42273, y: -31}
+    - name: poof_14
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 0
+        width: 500.625
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.73706, y: -48}
+        - {x: -35.73706, y: -64}
+        - {x: 10.262939, y: -64}
+        - {x: 10.262939, y: 64}
+        - {x: -56.73706, y: 64}
+        - {x: -63.73706, y: 63}
+      - - {x: 59.26294, y: -20}
+        - {x: 30.26294, y: -58}
+        - {x: 29.26294, y: -61}
+        - {x: 29.26294, y: -64}
+        - {x: 62.26294, y: -64}
+        - {x: 65.26294, y: -59}
+        - {x: 65.26294, y: -20}
+      - - {x: 52.26294, y: 0}
+        - {x: 52.26294, y: -7}
+        - {x: 57.26294, y: -13}
+        - {x: 64.26294, y: -17}
+        - {x: 65.26294, y: -17}
+        - {x: 65.26294, y: 25}
+        - {x: 61.26294, y: 24}
+      - - {x: 62.26294, y: 42}
+        - {x: 61.26294, y: 39}
+        - {x: 64.26294, y: 35}
+        - {x: 65.26294, y: 35}
+        - {x: 65.26294, y: 41}
+        - {x: 64.26294, y: 42}
+      - - {x: -3.7370605, y: 62}
+        - {x: -3.7370605, y: 56}
+        - {x: -1.7370605, y: 52}
+        - {x: 34.26294, y: 46}
+        - {x: 58.26294, y: 46}
+        - {x: 58.26294, y: 57}
+        - {x: 43.26294, y: 62}
+    - name: poof_15
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 0
+        width: 500.625
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.89685, y: -1}
+        - {x: -63.89685, y: -55}
+        - {x: -55.89685, y: -57}
+        - {x: -32.89685, y: -64}
+        - {x: -7.8968506, y: -64}
+        - {x: -7.8968506, y: -56}
+        - {x: -58.89685, y: -1}
+      - - {x: 31.10315, y: -60}
+        - {x: 29.10315, y: -62}
+        - {x: 30.10315, y: -64}
+        - {x: 59.10315, y: -64}
+        - {x: 65.10315, y: -61}
+        - {x: 65.10315, y: -43}
+        - {x: 62.10315, y: -44}
+      - - {x: 61.10315, y: 9}
+        - {x: 61.10315, y: -11}
+        - {x: 63.10315, y: -16}
+        - {x: 65.10315, y: -16}
+        - {x: 65.10315, y: 13}
+        - {x: 64.10315, y: 13}
+      - - {x: -42.89685, y: 61}
+        - {x: -46.89685, y: 61}
+        - {x: -51.89685, y: 60}
+        - {x: -63.89685, y: 45}
+        - {x: -63.89685, y: 1}
+        - {x: -60.89685, y: 2}
+        - {x: -56.89685, y: 10}
+        - {x: -41.89685, y: 58}
+        - {x: -41.89685, y: 59}
+      - - {x: 34.10315, y: 57}
+        - {x: 35.10315, y: 54}
+        - {x: 51.10315, y: 47}
+        - {x: 56.10315, y: 47}
+        - {x: 58.10315, y: 48}
+        - {x: 58.10315, y: 52}
+        - {x: 57.10315, y: 55}
+        - {x: 43.10315, y: 59}
+        - {x: 36.10315, y: 59}
+      - - {x: -38.89685, y: 64}
+        - {x: -38.89685, y: 61}
+        - {x: -30.89685, y: 57}
+        - {x: -8.896851, y: 57}
+        - {x: -6.8968506, y: 60}
+        - {x: -7.8968506, y: 63}
+        - {x: -11.896851, y: 64}
+      - - {x: 7.1031494, y: 60}
+        - {x: 8.103149, y: 57}
+        - {x: 12.103149, y: 57}
+        - {x: 14.103149, y: 59}
+        - {x: 13.103149, y: 62}
+        - {x: 9.103149, y: 62}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

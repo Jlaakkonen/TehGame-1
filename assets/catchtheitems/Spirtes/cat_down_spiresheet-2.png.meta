@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: ad0816832e57340c8999aa6f7cc27b83
+timeCreated: 1464176471
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cat_down_spiresheet-2_0
+    21300002: cat_down_spiresheet-2_1
+    21300004: cat_down_spiresheet-2_2
+    21300006: cat_down_spiresheet-2_3
+    21300008: cat_down_spiresheet-2_4
+    21300010: cat_down_spiresheet-2_5
+    21300012: cat_down_spiresheet-2_6
+    21300014: cat_down_spiresheet-2_7
+    21300016: cat_down_spiresheet-2_8
+    21300018: cat_down_spiresheet-2_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cat_down_spiresheet-2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 184
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 68.5}
+        - {x: 13, y: 81.5}
+        - {x: -52, y: 81.5}
+        - {x: -88, y: 21.5}
+        - {x: -88, y: -2.5}
+        - {x: -73, y: -98.5}
+        - {x: 81, y: -98.5}
+        - {x: 89, y: -84.5}
+        - {x: 92, y: 14.5}
+        - {x: 92, y: 81.5}
+    - name: cat_down_spiresheet-2_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 201
+        width: 184
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: 73.5}
+        - {x: 58, y: 73.5}
+        - {x: 47, y: 65.5}
+        - {x: 48, y: 43.5}
+        - {x: 50, y: 36.5}
+        - {x: -14, y: 73.5}
+        - {x: -53, y: 73.5}
+        - {x: -90, y: 13.5}
+        - {x: -90, y: -11.5}
+        - {x: -85, y: -27.5}
+        - {x: -44, y: -98.5}
+        - {x: 76, y: -98.5}
+        - {x: 80, y: -92.5}
+        - {x: 80, y: 69.5}
+    - name: cat_down_spiresheet-2_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 201
+        width: 184
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 40.5}
+        - {x: 13, y: 27.5}
+        - {x: -15, y: 40.5}
+        - {x: -58, y: 40.5}
+        - {x: -84, y: -16.5}
+        - {x: -84, y: -53.5}
+        - {x: -53, y: -100.5}
+        - {x: 80, y: -100.5}
+        - {x: 80, y: 17.5}
+        - {x: 66, y: 40.5}
+    - name: cat_down_spiresheet-2_3
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 201
+        width: 184
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 30.5}
+        - {x: 18, y: 28.5}
+        - {x: 8, y: 16.5}
+        - {x: 8, y: 10.5}
+        - {x: 16, y: 0.5}
+        - {x: -14, y: 28.5}
+        - {x: -40, y: 30.5}
+        - {x: -49, y: 30.5}
+        - {x: -84, y: -31.5}
+        - {x: -84, y: -65.5}
+        - {x: -56, y: -100.5}
+        - {x: 78, y: -100.5}
+        - {x: 78, y: 10.5}
+        - {x: 72, y: 30.5}
+    - name: cat_down_spiresheet-2_4
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 201
+        width: 184
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 14.5}
+        - {x: -52, y: 6.5}
+        - {x: -54, y: -2.5}
+        - {x: -55, y: -6.5}
+        - {x: -84, y: -36.5}
+        - {x: -84, y: -67.5}
+        - {x: -79, y: -83.5}
+        - {x: -37, y: -100.5}
+        - {x: 90, y: -100.5}
+        - {x: 92, y: -94.5}
+        - {x: 92, y: -3.5}
+        - {x: 51, y: 14.5}
+    - name: cat_down_spiresheet-2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 184
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 14.5}
+        - {x: -76, y: 14.5}
+        - {x: -84, y: -15.5}
+        - {x: -84, y: -98.5}
+        - {x: -70, y: -100.5}
+        - {x: 84, y: -100.5}
+        - {x: 92, y: -92.5}
+        - {x: 92, y: -42.5}
+        - {x: 85, y: -18.5}
+    - name: cat_down_spiresheet-2_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 184
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 14.5}
+        - {x: -63, y: 14.5}
+        - {x: -84, y: -28.5}
+        - {x: -84, y: -67.5}
+        - {x: -79, y: -84.5}
+        - {x: -69, y: -79.5}
+        - {x: -68, y: -76.5}
+        - {x: -45, y: -100.5}
+        - {x: 73, y: -100.5}
+        - {x: 85, y: -97.5}
+        - {x: 85, y: -58.5}
+        - {x: 55, y: -5.5}
+    - name: cat_down_spiresheet-2_7
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 184
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: -67.5}
+        - {x: -79, y: -84.5}
+        - {x: -69, y: -79.5}
+        - {x: -68, y: -76.5}
+        - {x: -47, y: -100.5}
+        - {x: 76, y: -100.5}
+        - {x: 76, y: -21.5}
+        - {x: 71, y: -7.5}
+        - {x: -6, y: 14.5}
+        - {x: -62, y: 14.5}
+        - {x: -84, y: -29.5}
+    - name: cat_down_spiresheet-2_8
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 184
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 14.5}
+        - {x: -48, y: 14.5}
+        - {x: -52, y: 6.5}
+        - {x: -84, y: -0.5}
+        - {x: -84, y: -100.5}
+        - {x: 76, y: -100.5}
+        - {x: 77, y: -99.5}
+        - {x: 77, y: -50.5}
+        - {x: 53, y: -10.5}
+    - name: cat_down_spiresheet-2_9
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 184
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 14.5}
+        - {x: -48, y: 14.5}
+        - {x: -52, y: 6.5}
+        - {x: -84, y: -0.5}
+        - {x: -84, y: -100.5}
+        - {x: 76, y: -100.5}
+        - {x: 77, y: -99.5}
+        - {x: 77, y: -50.5}
+        - {x: 53, y: -10.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

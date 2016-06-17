@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: 0ef06edd96107419dac61e388f9e743b
+timeCreated: 1464341416
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: flames_0
+    21300002: flames_1
+    21300004: flames_2
+    21300006: flames_3
+    21300008: flames_4
+    21300010: flames_5
+    21300012: flames_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: flames_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 125.71429
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 149}
+        - {x: -63, y: 82}
+        - {x: -63, y: -137}
+        - {x: -51, y: -147}
+        - {x: -35, y: -146}
+        - {x: -32, y: -143}
+        - {x: -12, y: -148}
+        - {x: 36, y: -148}
+        - {x: 50, y: -142}
+        - {x: 50, y: 54}
+        - {x: 46, y: 113}
+        - {x: 8, y: 149}
+    - name: flames_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 125.71429
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 152}
+        - {x: -61, y: 152}
+        - {x: -63, y: 136}
+        - {x: -63, y: -142}
+        - {x: -41, y: -152}
+        - {x: -32, y: -152}
+        - {x: -31, y: -149}
+        - {x: -38, y: -120}
+        - {x: 0, y: -152}
+        - {x: 53, y: -152}
+        - {x: 53, y: 112}
+        - {x: 47, y: 130}
+      - - {x: 60, y: -109}
+        - {x: 62, y: -111}
+        - {x: 63, y: -111}
+        - {x: 63, y: 18}
+        - {x: 60, y: 17}
+      - - {x: 60, y: 27}
+        - {x: 62, y: 25}
+        - {x: 63, y: 25}
+        - {x: 63, y: 33}
+        - {x: 60, y: 32}
+    - name: flames_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 125.71429
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 156}
+        - {x: -53, y: 156}
+        - {x: -63, y: 97}
+        - {x: -63, y: -146}
+        - {x: -46, y: -155}
+        - {x: -32, y: -155}
+        - {x: -27, y: -146}
+        - {x: 6, y: -155}
+        - {x: 24, y: -155}
+        - {x: 45, y: -143}
+        - {x: 54, y: -124}
+        - {x: 54, y: 112}
+      - - {x: 59, y: 73}
+        - {x: 59, y: -128}
+        - {x: 63, y: -128}
+        - {x: 63, y: 72}
+        - {x: 62, y: 73}
+    - name: flames_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 125.71429
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 162}
+        - {x: -26, y: 162}
+        - {x: -48, y: 148}
+        - {x: -63, y: 89}
+        - {x: -63, y: -138}
+        - {x: -51, y: -161}
+        - {x: -48, y: -162}
+        - {x: 34, y: -162}
+        - {x: 53, y: -151}
+        - {x: 53, y: 105}
+        - {x: 51, y: 142}
+      - - {x: 58, y: 76}
+        - {x: 58, y: -124}
+        - {x: 61, y: -130}
+        - {x: 63, y: -130}
+        - {x: 63, y: 78}
+        - {x: 62, y: 78}
+    - name: flames_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 125.71429
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 161}
+        - {x: -62, y: 152}
+        - {x: -63, y: 127}
+        - {x: -63, y: -152}
+        - {x: -46, y: -169}
+        - {x: -35, y: -169}
+        - {x: -32, y: -166}
+        - {x: -28, y: -157}
+        - {x: -3, y: -169}
+        - {x: 31, y: -169}
+        - {x: 56, y: -138}
+        - {x: 56, y: 68}
+        - {x: 24, y: 161}
+      - - {x: 57, y: 76}
+        - {x: 57, y: -142}
+        - {x: 62, y: -143}
+        - {x: 63, y: -143}
+        - {x: 63, y: 76}
+    - name: flames_5
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 0
+        width: 125.71429
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 172}
+        - {x: -42, y: 172}
+        - {x: -63, y: 115}
+        - {x: -63, y: -155}
+        - {x: -47, y: -166}
+        - {x: -31, y: -170}
+        - {x: -24, y: -160}
+        - {x: -25, y: -155}
+        - {x: 1, y: -171}
+        - {x: 50, y: -171}
+        - {x: 52, y: -156}
+        - {x: 52, y: 116}
+        - {x: 43, y: 141}
+      - - {x: 55, y: 25}
+        - {x: 55, y: -150}
+        - {x: 62, y: -155}
+        - {x: 63, y: -155}
+        - {x: 63, y: 51}
+        - {x: 60, y: 50}
+    - name: flames_6
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 125.71429
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 128}
+        - {x: -32, y: 128}
+        - {x: -48, y: 126}
+        - {x: -63, y: 106}
+        - {x: -63, y: -175}
+        - {x: 18, y: -175}
+        - {x: 28, y: -172}
+        - {x: 51, y: -145}
+        - {x: 51, y: 26}
+        - {x: 31, y: 126}
+      - - {x: 25, y: 129}
+        - {x: 27, y: 127}
+        - {x: 30, y: 128}
+        - {x: 30, y: 131}
+        - {x: 28, y: 133}
+        - {x: 25, y: 132}
+      - - {x: 10, y: 176}
+        - {x: -33, y: 176}
+        - {x: -49, y: 150}
+        - {x: -49, y: 132}
+        - {x: 28, y: 132}
+        - {x: 29, y: 133}
+        - {x: 29, y: 150}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

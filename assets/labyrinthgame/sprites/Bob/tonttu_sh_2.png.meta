@@ -1,0 +1,931 @@
+fileFormatVersion: 2
+guid: 1ed195ee215cdd04e87a6dec6805119b
+timeCreated: 1455279806
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tonttu_sh_2_0
+    21300002: tonttu_sh_2_1
+    21300004: tonttu_sh_2_2
+    21300006: tonttu_sh_2_3
+    21300008: tonttu_sh_2_4
+    21300010: tonttu_sh_2_5
+    21300012: tonttu_sh_2_6
+    21300014: tonttu_sh_2_7
+    21300016: tonttu_sh_2_8
+    21300018: tonttu_sh_2_9
+    21300020: tonttu_sh_2_10
+    21300022: tonttu_sh_2_11
+    21300024: tonttu_sh_2_12
+    21300026: tonttu_sh_2_13
+    21300028: tonttu_sh_2_14
+    21300030: tonttu_sh_2_15
+    21300032: tonttu_sh_2_16
+    21300034: tonttu_sh_2_17
+    21300036: tonttu_sh_2_18
+    21300038: tonttu_sh_2_19
+    21300040: tonttu_sh_2_20
+    21300042: tonttu_sh_2_21
+    21300044: tonttu_sh_2_22
+    21300046: tonttu_sh_2_23
+    21300048: tonttu_sh_2_24
+    21300050: tonttu_sh_2_25
+    21300052: tonttu_sh_2_26
+    21300054: tonttu_sh_2_27
+    21300056: tonttu_sh_2_28
+    21300058: tonttu_sh_2_29
+    21300060: tonttu_sh_2_30
+    21300062: tonttu_sh_2_31
+    21300064: tonttu_sh_2_32
+    21300066: tonttu_sh_2_33
+    21300068: tonttu_sh_2_34
+    21300070: tonttu_sh_2_35
+    21300072: tonttu_sh_2_36
+    21300074: tonttu_sh_2_37
+    21300076: tonttu_sh_2_38
+    21300078: tonttu_sh_2_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tonttu_sh_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3710
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 124}
+        - {x: -62, y: 111}
+        - {x: -62, y: -67}
+        - {x: -57, y: -74}
+        - {x: 40, y: -74}
+        - {x: 61, y: -70}
+        - {x: 61, y: 77}
+        - {x: 35, y: 124}
+    - name: tonttu_sh_2_1
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 3710
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 123}
+        - {x: -28, y: 123}
+        - {x: -62, y: 95}
+        - {x: -62, y: -74}
+        - {x: 55, y: -74}
+        - {x: 61, y: -57}
+        - {x: 61, y: 78}
+        - {x: 42, y: 122}
+    - name: tonttu_sh_2_2
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 3710
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 123}
+        - {x: -62, y: 114}
+        - {x: -62, y: -74}
+        - {x: 55, y: -74}
+        - {x: 61, y: -58}
+        - {x: 61, y: 62}
+        - {x: 25, y: 123}
+    - name: tonttu_sh_2_3
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 3710
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 123}
+        - {x: -25, y: 123}
+        - {x: -42, y: 116}
+        - {x: -62, y: 95}
+        - {x: -62, y: -64}
+        - {x: -46, y: -74}
+        - {x: 36, y: -74}
+        - {x: 61, y: -65}
+        - {x: 61, y: 68}
+        - {x: 46, y: 94}
+    - name: tonttu_sh_2_4
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 3710
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 62}
+        - {x: 49, y: 115}
+        - {x: 24, y: 123}
+        - {x: -21, y: 123}
+        - {x: -45, y: 94}
+        - {x: -62, y: 54}
+        - {x: -62, y: -51}
+        - {x: -55, y: -74}
+        - {x: 48, y: -74}
+        - {x: 53, y: -70}
+        - {x: 62, y: -46}
+        - {x: 62, y: 32}
+    - name: tonttu_sh_2_5
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 3710
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 123}
+        - {x: -38, y: 107}
+        - {x: -62, y: 64}
+        - {x: -62, y: -73}
+        - {x: -61, y: -74}
+        - {x: 62, y: -74}
+        - {x: 62, y: 114}
+        - {x: 17, y: 123}
+    - name: tonttu_sh_2_6
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 3710
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 122}
+        - {x: -43, y: 110}
+        - {x: -63, y: 54}
+        - {x: -63, y: -74}
+        - {x: 63, y: -74}
+        - {x: 63, y: 105}
+        - {x: 39, y: 122}
+    - name: tonttu_sh_2_7
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 3710
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 123}
+        - {x: -49, y: 115}
+        - {x: -62, y: 51}
+        - {x: -62, y: -71}
+        - {x: -60, y: -74}
+        - {x: 62, y: -74}
+        - {x: 62, y: 118}
+        - {x: 35, y: 123}
+    - name: tonttu_sh_2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3180
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 119}
+        - {x: -21, y: 118}
+        - {x: -37, y: 109}
+        - {x: -72, y: 61}
+        - {x: -72, y: -24}
+        - {x: -67, y: -69}
+        - {x: -44, y: -75}
+        - {x: 64, y: -75}
+        - {x: 64, y: 116}
+        - {x: 53, y: 119}
+    - name: tonttu_sh_2_9
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 3180
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 120}
+        - {x: -74, y: 67}
+        - {x: -74, y: -45}
+        - {x: -70, y: -70}
+        - {x: -45, y: -75}
+        - {x: 60, y: -75}
+        - {x: 63, y: -62}
+        - {x: 63, y: 107}
+        - {x: 54, y: 120}
+    - name: tonttu_sh_2_10
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 3180
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 121}
+        - {x: -44, y: 111}
+        - {x: -72, y: 56}
+        - {x: -72, y: -72}
+        - {x: -49, y: -75}
+        - {x: 60, y: -75}
+        - {x: 64, y: -53}
+        - {x: 64, y: 112}
+        - {x: 41, y: 121}
+    - name: tonttu_sh_2_11
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 3180
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 120}
+        - {x: -27, y: 120}
+        - {x: -73, y: 82}
+        - {x: -73, y: -36}
+        - {x: -62, y: -75}
+        - {x: 46, y: -75}
+        - {x: 60, y: -56}
+        - {x: 66, y: 25}
+        - {x: 66, y: 97}
+    - name: tonttu_sh_2_12
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 3180
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 119}
+        - {x: -30, y: 119}
+        - {x: -64, y: 96}
+        - {x: -64, y: -7}
+        - {x: -60, y: -60}
+        - {x: -47, y: -75}
+        - {x: 52, y: -75}
+        - {x: 62, y: -65}
+        - {x: 73, y: -17}
+        - {x: 73, y: 63}
+    - name: tonttu_sh_2_13
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 3180
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 117}
+        - {x: 32, y: 120}
+        - {x: -48, y: 120}
+        - {x: -63, y: 114}
+        - {x: -63, y: -72}
+        - {x: -55, y: -75}
+        - {x: 58, y: -75}
+        - {x: 67, y: -69}
+        - {x: 74, y: -19}
+        - {x: 74, y: 55}
+    - name: tonttu_sh_2_14
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 3180
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 121}
+        - {x: -41, y: 121}
+        - {x: -64, y: 98}
+        - {x: -64, y: -52}
+        - {x: -45, y: -75}
+        - {x: 55, y: -75}
+        - {x: 73, y: -70}
+        - {x: 73, y: 62}
+        - {x: 55, y: 119}
+    - name: tonttu_sh_2_15
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 3180
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 67}
+        - {x: 50, y: 64}
+        - {x: 50, y: 62}
+        - {x: 46, y: 62}
+        - {x: 48, y: 62}
+        - {x: 51, y: 66}
+        - {x: 58, y: 77}
+        - {x: 49, y: 120}
+        - {x: -66, y: 120}
+        - {x: -66, y: -71}
+        - {x: -55, y: -75}
+        - {x: 58, y: -75}
+        - {x: 67, y: -69}
+        - {x: 72, y: -23}
+        - {x: 72, y: 49}
+    - name: tonttu_sh_2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2650
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 128}
+        - {x: -50, y: 128}
+        - {x: -66, y: 110}
+        - {x: -66, y: -49}
+        - {x: -55, y: -80}
+        - {x: 40, y: -80}
+        - {x: 62, y: -21}
+        - {x: 62, y: 69}
+        - {x: 48, y: 113}
+    - name: tonttu_sh_2_17
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2650
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 125}
+        - {x: -68, y: 108}
+        - {x: -68, y: -58}
+        - {x: -33, y: -78}
+        - {x: 54, y: -78}
+        - {x: 62, y: -44}
+        - {x: 62, y: 95}
+        - {x: 35, y: 125}
+    - name: tonttu_sh_2_18
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2650
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 121}
+        - {x: -51, y: 118}
+        - {x: -62, y: 60}
+        - {x: -62, y: -66}
+        - {x: -58, y: -74}
+        - {x: 52, y: -74}
+        - {x: 61, y: -72}
+        - {x: 61, y: 87}
+        - {x: 21, y: 121}
+    - name: tonttu_sh_2_19
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 2650
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 128}
+        - {x: -62, y: 108}
+        - {x: -62, y: -31}
+        - {x: -58, y: -80}
+        - {x: 6, y: -80}
+        - {x: 66, y: -59}
+        - {x: 66, y: 67}
+        - {x: 45, y: 128}
+    - name: tonttu_sh_2_20
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 2650
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 125}
+        - {x: -63, y: 120}
+        - {x: -63, y: -78}
+        - {x: 54, y: -78}
+        - {x: 68, y: -55}
+        - {x: 68, y: 63}
+        - {x: 22, y: 125}
+    - name: tonttu_sh_2_21
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 2650
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 121}
+        - {x: -51, y: 118}
+        - {x: -62, y: 60}
+        - {x: -62, y: -66}
+        - {x: -58, y: -74}
+        - {x: 52, y: -74}
+        - {x: 61, y: -72}
+        - {x: 61, y: 87}
+        - {x: 21, y: 121}
+    - name: tonttu_sh_2_22
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 2650
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: 68}
+        - {x: -69, y: -57}
+        - {x: -66, y: -71}
+        - {x: 31, y: -71}
+        - {x: 61, y: -66}
+        - {x: 61, y: 128}
+        - {x: -25, y: 128}
+        - {x: -57, y: 122}
+    - name: tonttu_sh_2_23
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 2650
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 123}
+        - {x: -71, y: 87}
+        - {x: -71, y: -43}
+        - {x: -67, y: -72}
+        - {x: 27, y: -72}
+        - {x: 44, y: -68}
+        - {x: 64, y: -38}
+        - {x: 64, y: 123}
+    - name: tonttu_sh_2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2120
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 118}
+        - {x: -64, y: 73}
+        - {x: -64, y: -71}
+        - {x: -61, y: -75}
+        - {x: 52, y: -75}
+        - {x: 70, y: -37}
+        - {x: 70, y: 93}
+        - {x: 35, y: 118}
+    - name: tonttu_sh_2_25
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2120
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -33}
+        - {x: 49, y: -25}
+        - {x: 61, y: -11}
+        - {x: 68, y: -1}
+        - {x: 68, y: 61}
+        - {x: 64, y: 128}
+        - {x: -26, y: 128}
+        - {x: -61, y: 94}
+        - {x: -61, y: -38}
+        - {x: -56, y: -71}
+        - {x: 46, y: -71}
+        - {x: 68, y: -46}
+        - {x: 68, y: -41}
+        - {x: 51, y: -33}
+        - {x: 38, y: -33}
+    - name: tonttu_sh_2_26
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2120
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 123}
+        - {x: -64, y: 84}
+        - {x: -64, y: -48}
+        - {x: -53, y: -72}
+        - {x: 64, y: -72}
+        - {x: 70, y: -36}
+        - {x: 70, y: 123}
+    - name: tonttu_sh_2_27
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 2120
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: 118}
+        - {x: -34, y: 118}
+        - {x: -71, y: 92}
+        - {x: -71, y: -31}
+        - {x: -60, y: -75}
+        - {x: 48, y: -75}
+        - {x: 57, y: -60}
+        - {x: 64, y: -43}
+        - {x: 64, y: 97}
+    - name: tonttu_sh_2_28
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 2120
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 128}
+        - {x: -44, y: 123}
+        - {x: -87, y: 52}
+        - {x: -87, y: -39}
+        - {x: -65, y: -75}
+        - {x: 90, y: -75}
+        - {x: 90, y: 128}
+    - name: tonttu_sh_2_29
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 2120
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 126}
+        - {x: -52, y: 120}
+        - {x: -52, y: 82}
+        - {x: -49, y: 73}
+        - {x: -45, y: 68}
+        - {x: -46, y: 69}
+        - {x: -59, y: 72}
+        - {x: -73, y: 55}
+        - {x: -77, y: 46}
+        - {x: -77, y: -75}
+        - {x: 76, y: -75}
+        - {x: 76, y: 126}
+    - name: tonttu_sh_2_30
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 2120
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: 120}
+        - {x: -39, y: 120}
+        - {x: -70, y: 68}
+        - {x: -70, y: -27}
+        - {x: -53, y: -75}
+        - {x: 39, y: -75}
+        - {x: 50, y: -56}
+        - {x: 70, y: 39}
+        - {x: 70, y: 114}
+    - name: tonttu_sh_2_31
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 2120
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 128}
+        - {x: -72, y: 103}
+        - {x: -89, y: 20}
+        - {x: -89, y: -12}
+        - {x: -81, y: -15}
+        - {x: -56, y: -13}
+        - {x: -73, y: -16}
+        - {x: -81, y: -21}
+        - {x: -80, y: -28}
+        - {x: -65, y: -75}
+        - {x: 94, y: -75}
+        - {x: 94, y: 73}
+        - {x: 32, y: 128}
+    - name: tonttu_sh_2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1590
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 128}
+        - {x: -71, y: 75}
+        - {x: -71, y: -18}
+        - {x: -68, y: -26}
+        - {x: -55, y: -36}
+        - {x: -50, y: -36}
+        - {x: -48, y: -39}
+        - {x: -56, y: -35}
+        - {x: -65, y: -32}
+        - {x: -71, y: -42}
+        - {x: -71, y: -56}
+        - {x: -61, y: -75}
+        - {x: 84, y: -75}
+        - {x: 84, y: 125}
+        - {x: 78, y: 128}
+    - name: tonttu_sh_2_33
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1590
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 120}
+        - {x: -70, y: 66}
+        - {x: -70, y: 27}
+        - {x: -60, y: 6}
+        - {x: -62, y: -69}
+        - {x: -41, y: -75}
+        - {x: 37, y: -75}
+        - {x: 72, y: -25}
+        - {x: 72, y: 104}
+        - {x: 29, y: 120}
+    - name: tonttu_sh_2_34
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1590
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87, y: -55}
+        - {x: 87, y: 88}
+        - {x: 48, y: 122}
+        - {x: 29, y: 128}
+        - {x: -44, y: 128}
+        - {x: -79, y: 101}
+        - {x: -89, y: 45}
+        - {x: -89, y: -46}
+        - {x: -62, y: -75}
+        - {x: -39, y: -75}
+        - {x: -36, y: -74}
+        - {x: -38, y: -65}
+        - {x: -44, y: -54}
+        - {x: 51, y: -70}
+    - name: tonttu_sh_2_35
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1590
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: 126}
+        - {x: -75, y: 114}
+        - {x: -75, y: -75}
+        - {x: 77, y: -75}
+        - {x: 77, y: 126}
+    - name: tonttu_sh_2_36
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 1590
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 120}
+        - {x: -61, y: 120}
+        - {x: -70, y: 117}
+        - {x: -70, y: -9}
+        - {x: -63, y: -75}
+        - {x: 54, y: -75}
+        - {x: 62, y: -66}
+        - {x: 70, y: -42}
+        - {x: 70, y: 73}
+    - name: tonttu_sh_2_37
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 1590
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 128}
+        - {x: -32, y: 128}
+        - {x: -68, y: 104}
+        - {x: -84, y: 67}
+        - {x: -94, y: 29}
+        - {x: -94, y: -16}
+        - {x: -70, y: -14}
+        - {x: -58, y: -10}
+        - {x: -62, y: -12}
+        - {x: -84, y: -30}
+        - {x: -92, y: -37}
+        - {x: -71, y: -75}
+        - {x: 73, y: -75}
+        - {x: 89, y: -33}
+        - {x: 89, y: 53}
+        - {x: 50, y: 127}
+    - name: tonttu_sh_2_38
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 1590
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: -35}
+        - {x: 51, y: -37}
+        - {x: 57, y: -34}
+        - {x: 72, y: -29}
+        - {x: 72, y: 65}
+        - {x: 46, y: 121}
+        - {x: 16, y: 128}
+        - {x: -80, y: 128}
+        - {x: -84, y: 125}
+        - {x: -84, y: -67}
+        - {x: -64, y: -75}
+        - {x: 52, y: -75}
+        - {x: 72, y: -51}
+        - {x: 72, y: -37}
+        - {x: 63, y: -33}
+    - name: tonttu_sh_2_39
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 1590
+        width: 530
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 120}
+        - {x: -71, y: 116}
+        - {x: -71, y: 73}
+        - {x: -69, y: 72}
+        - {x: -48, y: 68}
+        - {x: -43, y: 78}
+        - {x: -43, y: 84}
+        - {x: -42, y: 68}
+        - {x: -71, y: 58}
+        - {x: -71, y: -75}
+        - {x: 51, y: -75}
+        - {x: 66, y: -71}
+        - {x: 70, y: -25}
+        - {x: 70, y: 73}
+        - {x: 43, y: 120}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 0bcb1b0ff0fbb44de9e40f468fab795e
+timeCreated: 1464337006
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: avain_spin_0
+    21300002: avain_spin_1
+    21300004: avain_spin_2
+    21300006: avain_spin_3
+    21300008: avain_spin_4
+    21300010: avain_spin_5
+    21300012: avain_spin_6
+    21300014: avain_spin_7
+    21300016: avain_spin_8
+    21300018: avain_spin_9
+    21300020: avain_spin_10
+    21300022: avain_spin_11
+    21300024: avain_spin_12
+    21300026: avain_spin_13
+    21300028: avain_spin_14
+    21300030: avain_spin_15
+    21300032: avain_spin_16
+    21300034: avain_spin_17
+    21300036: avain_spin_18
+    21300038: avain_spin_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 550
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: avain_spin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 550
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 41.5}
+        - {x: -35.5, y: -19.5}
+        - {x: 24.5, y: -39.5}
+        - {x: 48.5, y: -39.5}
+        - {x: 48.5, y: 2.5}
+        - {x: 11.5, y: 41.5}
+    - name: avain_spin_1
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 550
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.199997, y: 40.5}
+        - {x: -29.199997, y: -10.5}
+        - {x: 14.800003, y: -40.5}
+        - {x: 41.800003, y: -40.5}
+        - {x: 45.800003, y: -39.5}
+        - {x: 45.800003, y: -10.5}
+        - {x: 8.800003, y: 40.5}
+    - name: avain_spin_2
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 550
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.899994, y: 40.5}
+        - {x: -21.899994, y: 30.5}
+        - {x: -21.899994, y: 3.5}
+        - {x: -20.899994, y: 0.5}
+        - {x: 13.100006, y: -42.5}
+        - {x: 34.100006, y: -42.5}
+        - {x: 39.100006, y: -41.5}
+        - {x: 39.100006, y: -19.5}
+        - {x: 7.100006, y: 40.5}
+    - name: avain_spin_3
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 0
+        width: 550
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.100006, y: 39.5}
+        - {x: -13.100006, y: 35.5}
+        - {x: -13.100006, y: -1.5}
+        - {x: 3.899994, y: -44.5}
+        - {x: 24.899994, y: -44.5}
+        - {x: 25.899994, y: -39.5}
+        - {x: 25.899994, y: -24.5}
+        - {x: 7.899994, y: 39.5}
+    - name: avain_spin_4
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 0
+        width: 550
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.700012, y: 39.5}
+        - {x: -4.299988, y: 39.5}
+        - {x: -4.299988, y: -44.5}
+        - {x: 6.700012, y: -44.5}
+        - {x: 7.700012, y: -43.5}
+        - {x: 7.700012, y: 4.5}
+        - {x: 6.700012, y: 38.5}
+    - name: avain_spin_5
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 0
+        width: 550
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 39.5}
+        - {x: -9, y: 31.5}
+        - {x: -20, y: -24.5}
+        - {x: -20, y: -44.5}
+        - {x: 2, y: -44.5}
+        - {x: 14, y: -5.5}
+        - {x: 14, y: 37.5}
+        - {x: 11, y: 39.5}
+    - name: avain_spin_6
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 0
+        width: 550
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.7999878, y: 40.5}
+        - {x: -6.200012, y: 33.5}
+        - {x: -8.200012, y: 28.5}
+        - {x: -9.200012, y: 24.5}
+        - {x: -35.200012, y: -30.5}
+        - {x: -35.200012, y: -40.5}
+        - {x: -31.200012, y: -43.5}
+        - {x: -1.2000122, y: -43.5}
+        - {x: 22.799988, y: -2.5}
+        - {x: 22.799988, y: 33.5}
+        - {x: 15.799988, y: 40.5}
+    - name: avain_spin_7
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 0
+        width: 550
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.3999634, y: 40.5}
+        - {x: -19.399963, y: 23.5}
+        - {x: -45.399963, y: -26.5}
+        - {x: -45.399963, y: -41.5}
+        - {x: -21.399963, y: -41.5}
+        - {x: 29.600037, y: -11.5}
+        - {x: 29.600037, y: 28.5}
+        - {x: 19.600037, y: 40.5}
+    - name: avain_spin_8
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 0
+        width: 550
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.099976, y: 41.5}
+        - {x: -48.099976, y: -13.5}
+        - {x: -48.099976, y: -37.5}
+        - {x: -47.099976, y: -39.5}
+        - {x: 0.9000244, y: -39.5}
+        - {x: 35.900024, y: 1.5}
+        - {x: 35.900024, y: 39.5}
+        - {x: 30.900024, y: 41.5}
+    - name: avain_spin_9
+      rect:
+        serializedVersion: 2
+        x: 4950
+        y: 0
+        width: 550
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.200012, y: 29.5}
+        - {x: 34.200012, y: 41.5}
+        - {x: -10.799988, y: 41.5}
+        - {x: -46.799988, y: -8.5}
+        - {x: -46.799988, y: -35.5}
+        - {x: -44.799988, y: -37.5}
+        - {x: -21.799988, y: -37.5}
+        - {x: -9.799988, y: -32.5}
+        - {x: 31.200012, y: -5.5}
+        - {x: 39.200012, y: 1.5}
+    - name: avain_spin_10
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 0
+        width: 550
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 42.5}
+        - {x: -43.5, y: -9.5}
+        - {x: -43.5, y: -32.5}
+        - {x: -41.5, y: -35.5}
+        - {x: -13.5, y: -35.5}
+        - {x: 37.5, y: -2.5}
+        - {x: 37.5, y: 38.5}
+        - {x: 29.5, y: 42.5}
+    - name: avain_spin_11
+      rect:
+        serializedVersion: 2
+        x: 6050
+        y: 0
+        width: 550
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.19995117, y: 43.5}
+        - {x: -15.199951, y: 29.5}
+        - {x: -35.19995, y: -17.5}
+        - {x: -35.19995, y: -30.5}
+        - {x: -31.199951, y: -34.5}
+        - {x: -13.199951, y: -34.5}
+        - {x: 29.800049, y: -9.5}
+        - {x: 35.80005, y: 3.5}
+        - {x: 35.80005, y: 33.5}
+        - {x: 23.800049, y: 43.5}
+    - name: avain_spin_12
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 0
+        width: 550
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.900024, y: -16.5}
+        - {x: -23.900024, y: -31.5}
+        - {x: -22.900024, y: -32.5}
+        - {x: -6.9000244, y: -32.5}
+        - {x: 30.099976, y: -16.5}
+        - {x: 30.099976, y: 43.5}
+        - {x: 1.0999756, y: 43.5}
+        - {x: -11.900024, y: 26.5}
+    - name: avain_spin_13
+      rect:
+        serializedVersion: 2
+        x: 7150
+        y: 0
+        width: 550
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.0999756, y: 43.5}
+        - {x: -13.099976, y: 12.5}
+        - {x: -13.099976, y: -30.5}
+        - {x: -11.099976, y: -32.5}
+        - {x: -1.0999756, y: -32.5}
+        - {x: 19.900024, y: -2.5}
+        - {x: 19.900024, y: 34.5}
+        - {x: 16.900024, y: 43.5}
+    - name: avain_spin_14
+      rect:
+        serializedVersion: 2
+        x: 7700
+        y: 0
+        width: 550
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.2999268, y: 43.5}
+        - {x: -4.2999268, y: 39.5}
+        - {x: -4.2999268, y: -24.5}
+        - {x: -3.2999268, y: -30.5}
+        - {x: -2.2999268, y: -31.5}
+        - {x: 5.7000732, y: -31.5}
+        - {x: 5.7000732, y: 43.5}
+    - name: avain_spin_15
+      rect:
+        serializedVersion: 2
+        x: 8250
+        y: 0
+        width: 550
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -1.5}
+        - {x: -3, y: -32.5}
+        - {x: 14, y: -32.5}
+        - {x: 18, y: -28.5}
+        - {x: 18, y: -8.5}
+        - {x: 12, y: 39.5}
+        - {x: 2, y: 43.5}
+        - {x: -15, y: 43.5}
+        - {x: -16, y: 42.5}
+    - name: avain_spin_16
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 0
+        width: 550
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.800049, y: 43.5}
+        - {x: -17.199951, y: 43.5}
+        - {x: -26.199951, y: 38.5}
+        - {x: -26.199951, y: -0.5}
+        - {x: 2.8000488, y: -32.5}
+        - {x: 24.800049, y: -32.5}
+        - {x: 28.800049, y: -29.5}
+        - {x: 28.800049, y: -9.5}
+        - {x: 27.800049, y: -6.5}
+    - name: avain_spin_17
+      rect:
+        serializedVersion: 2
+        x: 9350
+        y: 0
+        width: 550
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.6000977, y: 43.5}
+        - {x: -26.399902, y: 43.5}
+        - {x: -33.399902, y: 39.5}
+        - {x: -33.399902, y: 0.5}
+        - {x: -28.399902, y: -13.5}
+        - {x: 17.600098, y: -33.5}
+        - {x: 37.600098, y: -33.5}
+        - {x: 37.600098, y: -11.5}
+        - {x: 25.600098, y: 17.5}
+    - name: avain_spin_18
+      rect:
+        serializedVersion: 2
+        x: 9900
+        y: 0
+        width: 550
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.099976, y: 42.5}
+        - {x: -35.099976, y: 32.5}
+        - {x: -35.099976, y: -0.5}
+        - {x: 20.900024, y: -35.5}
+        - {x: 43.900024, y: -35.5}
+        - {x: 45.900024, y: -30.5}
+        - {x: 45.900024, y: -13.5}
+        - {x: 9.900024, y: 42.5}
+    - name: avain_spin_19
+      rect:
+        serializedVersion: 2
+        x: 10450
+        y: 0
+        width: 550
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.700073, y: 42.5}
+        - {x: -35.299927, y: 42.5}
+        - {x: -35.299927, y: -3.5}
+        - {x: -5.2999268, y: -35.5}
+        - {x: 44.700073, y: -35.5}
+        - {x: 45.700073, y: -28.5}
+        - {x: 45.700073, y: -16.5}
+        - {x: 20.700073, y: 40.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

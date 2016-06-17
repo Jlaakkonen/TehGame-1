@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: e63099f195b89433b9d344f6538c9470
+timeCreated: 1461308721
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: swipper_walksideview_sprite_0
+    21300002: swipper_walksideview_sprite_1
+    21300004: swipper_walksideview_sprite_2
+    21300006: swipper_walksideview_sprite_3
+    21300008: swipper_walksideview_sprite_4
+    21300010: swipper_walksideview_sprite_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 160
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: swipper_walksideview_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 286
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -9.5}
+        - {x: -20, y: 107.5}
+        - {x: -100, y: 107.5}
+        - {x: -143, y: 13.5}
+        - {x: -143, y: -48.5}
+        - {x: -75, y: -109.5}
+        - {x: -16, y: -111.5}
+        - {x: 134, y: -111.5}
+        - {x: 143, y: -109.5}
+        - {x: 143, y: -93.5}
+        - {x: 120, y: -73.5}
+    - name: swipper_walksideview_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 223
+        width: 286
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 86.5}
+        - {x: -11, y: 93.5}
+        - {x: -78, y: 93.5}
+        - {x: -143, y: 33.5}
+        - {x: -143, y: -28.5}
+        - {x: -92, y: -71.5}
+        - {x: -85, y: -88.5}
+        - {x: -74, y: -111.5}
+        - {x: 125, y: -111.5}
+        - {x: 128, y: -110.5}
+        - {x: 128, y: -83.5}
+        - {x: 115, y: -59.5}
+    - name: swipper_walksideview_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 223
+        width: 286
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -143, y: 20.5}
+        - {x: -143, y: -15.5}
+        - {x: -129, y: -56.5}
+        - {x: -85, y: -64.5}
+        - {x: -82, y: -61.5}
+        - {x: -81, y: -56.5}
+        - {x: -87, y: -107.5}
+        - {x: -53, y: -111.5}
+        - {x: 132, y: -111.5}
+        - {x: 132, y: -61.5}
+        - {x: 31, y: 72.5}
+        - {x: 2, y: 90.5}
+        - {x: -76, y: 90.5}
+        - {x: -86, y: 81.5}
+    - name: swipper_walksideview_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 286
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 125, y: 92.5}
+        - {x: -2, y: 92.5}
+        - {x: -10, y: 83.5}
+        - {x: -5, y: 65.5}
+        - {x: -130, y: -79.5}
+        - {x: -132, y: -85.5}
+        - {x: -132, y: -109.5}
+        - {x: -123, y: -111.5}
+        - {x: 9, y: -111.5}
+        - {x: 91, y: -105.5}
+        - {x: 143, y: -62.5}
+        - {x: 143, y: 26.5}
+    - name: swipper_walksideview_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 286
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 95.5}
+        - {x: 46, y: 95.5}
+        - {x: 45, y: 91.5}
+        - {x: 46, y: 87.5}
+        - {x: 33, y: 95.5}
+        - {x: -20, y: 95.5}
+        - {x: -81, y: 7.5}
+        - {x: -128, y: -67.5}
+        - {x: -128, y: -109.5}
+        - {x: 100, y: -109.5}
+        - {x: 143, y: -40.5}
+        - {x: 143, y: 37.5}
+        - {x: 121, y: 57.5}
+    - name: swipper_walksideview_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 0
+        width: 286
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: 104.5}
+        - {x: 63, y: 87.5}
+        - {x: 39, y: 109.5}
+        - {x: 9, y: 109.5}
+        - {x: -137, y: -87.5}
+        - {x: -143, y: -97.5}
+        - {x: -143, y: -109.5}
+        - {x: 79, y: -109.5}
+        - {x: 143, y: -20.5}
+        - {x: 143, y: 25.5}
+        - {x: 77, y: 107.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
